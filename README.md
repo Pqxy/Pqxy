@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pqxy
+- 👋 Hi, I’m Pqxy
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning Android
 - 💞️ I’m looking to collaborate on Opensouce Java Project
